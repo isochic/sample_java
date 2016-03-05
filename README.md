@@ -1,2 +1,2 @@
-# sample_java
+# sample java code
 Java Development Examples
